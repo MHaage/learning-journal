@@ -2,7 +2,7 @@
 
 ## 102 - Learning Journal
 
-**Hi, my name is Mauree.**
+**Hi, my name is Mauree. I am beginning my venture into software development, so this is where I will be exploring that fascinating world. I look forward to adding more to this journal and hope you enjoy it.**
 
 
 ## Table of Contents
