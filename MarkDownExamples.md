@@ -1,6 +1,17 @@
 # Mark Down Examples
 
+## Practice Mark Down
+
+### Emphasis
+
+*This text will be italic*
+
+_This will also be italic_
 
 
+**This text will be bold**
 
-# This is the second heading
+__This will also be bold__
+
+
+_You **can** combine them_
