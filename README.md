@@ -5,9 +5,8 @@
 **Hi, my name is Mauree.**
 
 
-- Here is an example of a table of contents for a learning journal.
-
 Table of Contents
+- [Reading Notes for Course 102](/reading-notes.md)
 - [Mark Down Examples from Class One - 102](/MarkDownExamples.md)
 - [Mark Down Examples from Class Two - 102](/MarkDownExamples.md)
 - [Mark Down Examples from Class Three - 102](/MarkDownExamples.md)
