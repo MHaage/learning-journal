@@ -2,8 +2,10 @@
 
 ## 102 - Learning Journal
 
-**Hi, my name is Mauree. I am beginning my venture into software development, so this is where I will be exploring that fascinating world. I look forward to adding more to this journal and hope you enjoy it.**
+## About Me
+***Hi, my name is Mauree. I am beginning my venture into software development, so this is where I will be exploring that fascinating world. I look forward to adding more to this journal and hope you enjoy it.***
 
+##### [GitHub Profile](https://github.com/MHaage)
 
 ## Table of Contents
 - [Reading Notes for Course 102](/reading-notes.md)
