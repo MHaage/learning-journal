@@ -1,3 +1,3 @@
 # Reading Notes
-- [Go To Home](/learning-journal.md)
+- [Go To Home](/README.md)
 ## Class One
